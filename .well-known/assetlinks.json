@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.meetpoint.meetpoint",
+      "sha256_cert_fingerprints": [
+        "14:3A:31:CC:C4:B9:5B:F7:A1:56:83:81:AE:7C:FC:48:8F:A5:8A:15:A7:22:F1:58:77:A6:B8:2A:2F:A4:66:5F"
+      ]
+    }
+  }
+]
